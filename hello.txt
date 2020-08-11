@@ -2,4 +2,8 @@ hello how r u?
 
 im fine thanks
 
+<<<<<<< HEAD
 lolo lol lol
+=======
+wow wow wow
+>>>>>>> feature
